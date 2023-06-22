@@ -25,7 +25,7 @@ Original author
 
 ### Links shared via FB
 how to with links [Based on MPC software 2.12.0 and Force Firmware 3.2.5](https://drive.google.com/file/d/1oSj9ABFbsSRw6wP2VOkzVg1J-ulXbLh3/view)
-[img file](https://drive.google.com/u/1/uc?id=1cRz446zsj29hqAv3DCab32CXBhRif-vx&export=download) 
+Image file [img file](https://drive.google.com/u/1/uc?id=1cRz446zsj29hqAv3DCab32CXBhRif-vx&export=download) 
 
 
 ## MPC project manager
